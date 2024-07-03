@@ -4,3 +4,6 @@
 [submodule "Practice08"]
 	path = Practice08
 	url = https://github.com/ktw1021/Practice08.git
+[submodule "Practice09"]
+	path = Practice09
+	url = https://github.com/ktw1021/Practice09.git
