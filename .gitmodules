@@ -7,3 +7,6 @@
 [submodule "Practice09"]
 	path = Practice09
 	url = https://github.com/ktw1021/Practice09.git
+[submodule "JavaTest"]
+	path = JavaTest
+	url = https://github.com/ktw1021/JavaTest.git
