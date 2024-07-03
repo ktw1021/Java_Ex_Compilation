@@ -1,3 +1,6 @@
 [submodule "Practice07"]
 	path = Practice07
 	url = https://github.com/ktw1021/Practice07.git
+[submodule "Practice08"]
+	path = Practice08
+	url = https://github.com/ktw1021/Practice08.git
