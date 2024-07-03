@@ -10,3 +10,6 @@
 [submodule "JavaTest"]
 	path = JavaTest
 	url = https://github.com/ktw1021/JavaTest.git
+[submodule "Mini_Project"]
+	path = Mini_Project
+	url = https://github.com/ktw1021/Mini_Project.git
